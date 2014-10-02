@@ -74,7 +74,7 @@ install tree
 install webkit2png
 install zopfli
 
-install homebrew/versions/lua52
+# install homebrew/versions/lua52
 
 # Remove outdated versions from the cellar
 cleanup
