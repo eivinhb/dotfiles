@@ -57,6 +57,7 @@ install tcptrace
 install ucspi-tcp # `tcpserver` et al.
 #install xpdf
 install xz
+install maven
 
 # Install other useful binaries
 install ack
@@ -75,6 +76,9 @@ install webkit2png
 install zopfli
 
 # install homebrew/versions/lua52
+
+install mongo
+install postgresql
 
 # Remove outdated versions from the cellar
 cleanup
